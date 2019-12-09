@@ -33,4 +33,4 @@ The program has three types of data processing
 
 ####Note
 <1>Yelp could search a broader category than New York Times. Thus, if the term you pick in question1 is not "food", "automobiles", "books", "business" or "fashion", the program won't show you top stories about that topic in New York Times
-<2>
+<2>You can't receive more than 50 results from Yelp Fusion (Please refer to this document: https://www.yelp.com/developers/documentation/v3/business_search)
